@@ -1,0 +1,14 @@
+C:\Users\ser20\RiderProjects\Lab2\Lab2\bin\Debug\net9.0\Lab2.exe
+C:\Users\ser20\RiderProjects\Lab2\Lab2\bin\Debug\net9.0\Lab2.deps.json
+C:\Users\ser20\RiderProjects\Lab2\Lab2\bin\Debug\net9.0\Lab2.runtimeconfig.json
+C:\Users\ser20\RiderProjects\Lab2\Lab2\bin\Debug\net9.0\Lab2.dll
+C:\Users\ser20\RiderProjects\Lab2\Lab2\bin\Debug\net9.0\Lab2.pdb
+C:\Users\ser20\RiderProjects\Lab2\Lab2\obj\Debug\net9.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ser20\RiderProjects\Lab2\Lab2\obj\Debug\net9.0\Lab2.AssemblyInfoInputs.cache
+C:\Users\ser20\RiderProjects\Lab2\Lab2\obj\Debug\net9.0\Lab2.AssemblyInfo.cs
+C:\Users\ser20\RiderProjects\Lab2\Lab2\obj\Debug\net9.0\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\ser20\RiderProjects\Lab2\Lab2\obj\Debug\net9.0\Lab2.dll
+C:\Users\ser20\RiderProjects\Lab2\Lab2\obj\Debug\net9.0\refint\Lab2.dll
+C:\Users\ser20\RiderProjects\Lab2\Lab2\obj\Debug\net9.0\Lab2.pdb
+C:\Users\ser20\RiderProjects\Lab2\Lab2\obj\Debug\net9.0\Lab2.genruntimeconfig.cache
+C:\Users\ser20\RiderProjects\Lab2\Lab2\obj\Debug\net9.0\ref\Lab2.dll
